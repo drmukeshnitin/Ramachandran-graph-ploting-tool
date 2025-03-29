@@ -6,6 +6,13 @@ The Ramachandran Plot Generator is a graphical tool for analyzing the backbone d
 
 The tool features a colorful GUI for ease of use and produces a comprehensive report file detailing the classifications of dihedral angles.
 
+
+![Screenshot from 2025-03-30 03-19-33](https://github.com/user-attachments/assets/9b328187-0041-4fa2-b438-420c4f026c8c)
+
+![Figure_1](https://github.com/user-attachments/assets/7bc6557a-6d04-4c12-a7c4-78f6c23e19a1)
+
+
+
 ---
 
  Features
