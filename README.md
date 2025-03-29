@@ -1,4 +1,4 @@
-Ramachandran graph ploting tool-
+Ramachandran graph plotting tool-
  Ramachandran Plot Generator
 
  Overview
